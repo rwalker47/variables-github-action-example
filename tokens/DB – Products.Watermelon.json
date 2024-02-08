@@ -141,7 +141,7 @@
   },
   "Color": {
     "$type": "color",
-    "$value": "#ffffff",
+    "$value": "#000000",
     "$description": "",
     "$extensions": {
       "com.figma": {
